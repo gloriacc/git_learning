@@ -42,7 +42,7 @@ div.accordion {
 div.accordion.active,
 div.accordion:hover {
   background-color: white;
-  color: #1D2031;
+  color: #1d2031;
 }
 
 div.panel {
@@ -62,4 +62,7 @@ footer {
 
 footer p {
   margin-bottom: 0;
+}
+
+footer p {
 }
